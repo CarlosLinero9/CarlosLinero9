@@ -16,7 +16,7 @@
   <a href="https://github.com/CarlosLinero9">
     <img src="https://img.shields.io/badge/GitHub-CarlosLinero9-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/juan-carlos-v%C3%ADlchez-s%C3%A1nchez-43ba78325/">
+  <a href="https://www.linkedin.com/in/juan-carlos-vilchez-sanchez">
     <img src="https://img.shields.io/badge/LinkedIn-Juan%20Carlos%20V%C3%ADlchez%20S%C3%A1nchez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:carlosvslinero@gmail.com">
@@ -115,7 +115,7 @@ Right now, I want to keep strengthening my profile around:
 ## 📫 Contact
 
 - **GitHub:** [@CarlosLinero9](https://github.com/CarlosLinero9)
-- **LinkedIn:** [https://www.linkedin.com/in/juan-carlos-v%C3%ADlchez-s%C3%A1nchez-43ba78325/](https://www.linkedin.com/in/juan-carlos-v%C3%ADlchez-s%C3%A1nchez-43ba78325/)
+- **LinkedIn:** [juan-carlos-vilchez-sanchez](https://www.linkedin.com/in/juan-carlos-vilchez-sanchez)
 - **Personal email:** [carlosvslinero@gmail.com](mailto:carlosvslinero@gmail.com)
 - **UGR email:** [carlosvilsan@correo.ugr.es](mailto:carlosvilsan@correo.ugr.es)
 - **CV:** [Juan_Carlos_Vilchez_Sanchez_CV_public.pdf](./Juan_Carlos_Vilchez_Sanchez_CV_public.pdf)
